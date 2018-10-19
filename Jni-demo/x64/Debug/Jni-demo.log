@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/10/17 17:46:48。
+     1>项目“d:\dev\my\VSProjects\Jni-demo\Jni-demo\Jni-demo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\Jni-demo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+         d:\apps\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D JNIDEMO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\Jni-demo.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt "Jni-demo.cpp"
+         Jni-demo.cpp
+       Link:
+         d:\apps\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"d:\dev\my\VSProjects\Jni-demo\x64\Debug\Jni-demo.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\Jni-demo.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\dev\my\VSProjects\Jni-demo\x64\Debug\Jni-demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\dev\my\VSProjects\Jni-demo\x64\Debug\Jni-demo.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+         "x64\Debug\Jni-demo.obj"
+         x64\Debug\stdafx.obj
+         Jni-demo.vcxproj -> d:\dev\my\VSProjects\Jni-demo\x64\Debug\Jni-demo.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"d:\dev\my\VSProjects\Jni-demo\x64\Debug\Jni-demo.dll.manifest" /manifest "x64\Debug\Jni-demo.dll.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\Jni-demo.unsuccessfulbuild”。
+         正在对“x64\Debug\Jni-demo.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\dev\my\VSProjects\Jni-demo\Jni-demo\Jni-demo.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.72
